@@ -56,12 +56,6 @@ Disclaimer: This software is provided "as is", without warranty of any kind.
 <div style="font-weight:bold; font-size:1.2em; margin-top:20px; margin-bottom:5px;">Summary</div>
 <p>PNUT derives **personalized (individual-level) network features** from questionnaire item responses to enable **Network-Augmented Machine Learning Utility (NAMU)**. Specifically, PNUT converts each participant’s item-response profile into an individualized symptom co-activation network and extracts network-informed predictors (e.g., node strength, pairwise edge weights, and graph-level connectivity summaries such as binary/weighted density). These features can be used alongside conventional predictors in machine learning pipelines to incorporate both symptom severity and symptom–symptom structure into NAMU-based modeling.</p>
 
-<p>For additional details on the NAMU framework and its rationale, please refer to the following paper:<br>
-<span style="color:#1f77b4;">
-Kim, H., Yocum, A., McInnis, M., &amp; Sperry, S. H. (2025, September). Predicting suicidal ideation from depression screening data: A network-augmented machine learning approach. In revision at the <i>Journal of Affective Disorders</i>. https://doi.org/10.31234/osf.io/rqyvx_v2
-</span>
-</p>
-
 ---
 
 <div style="margin-bottom: 70px;"></div>
@@ -321,4 +315,15 @@ sessionInfo()
 
 ---
 
-**Citation:** Kim, H. (2026). *PNUT: Personalized Network Utility Toolkit*. GitHub repository.
+<div style="font-weight:bold; font-size:1.2em; margin-top:20px; margin-bottom:5px;">Citations</div>
+<p>If you use PNUT in academic work, please cite this repository and the NAMU reference below.</p>
+
+<div style="background:#f7f7f7; border-left:4px solid #bfbfbf; padding:14px 16px; font-family:'Times New Roman', Times, serif;">
+  <p style="margin:0 0 12px 0;">
+    Kim, H. (2026). <i>PNUT: Personalized Network Utility Toolkit</i>. GitHub repository. https://github.com/prechter-data-team/PNUT
+  </p>
+
+  <p style="margin:0;">
+    Kim, H., Yocum, A., McInnis, M., &amp; Sperry, S. H. (2026). Predicting suicidal ideation from depression screening data: A network-augmented machine learning approach. <i>Journal of Affective Disorders</i>. https://doi.org/10.1016/j.jad.2026.121671
+  </p>
+</div>
