@@ -171,7 +171,7 @@ If you use PNUT in academic work, please cite this repository and the NAMU refer
 
 Kim, H. (2026). *PNUT: Personalized Network Utility Toolkit*. GitHub repository. [https://github.com/prechter-data-team/PNUT](https://github.com/prechter-data-team/PNUT)
 
-Kim, H., Yocum, A., McInnis, M., & Sperry, S. H. (2025). Predicting suicidal ideation from depression screening data: A network-augmented machine learning approach.*Journal of Affective Disorders*. [https://doi.org/10.1016/j.jad.2026.121671](https://doi.org/10.1016/j.jad.2026.121671)
+Kim, H., Yocum, A., McInnis, M., & Sperry, S. H. (2025). Predicting suicidal ideation from depression screening data: A network-augmented machine learning approach. *Journal of Affective Disorders*. [https://doi.org/10.1016/j.jad.2026.121671](https://doi.org/10.1016/j.jad.2026.121671)
 
 ---
 
