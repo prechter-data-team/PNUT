@@ -171,13 +171,13 @@ If you use PNUT in academic work, please cite this repository (and the NAMU refe
 
 Kim, H. (2026). *PNUT: Personalized Network Utility Toolkit*. GitHub repository.
 
-Kim, H., Yocum, A., McInnis, M., & Sperry, S. H. (2025, September). *Predicting suicidal ideation from depression screening data: A network-augmented machine learning approach.* In revision at the *Journal of Affective Disorders*. https://doi.org/10.31234/osf.io/rqyvx_v2
+Kim, H., Yocum, A., McInnis, M., & Sperry, S. H. (2025). Predicting suicidal ideation from depression screening data: A network-augmented machine learning approach.*Journal of Affective Disorders*. [https://doi.org/10.31234/osf.io/rqyvx_v2](https://doi.org/10.1016/j.jad.2026.121671)
 
 ---
 
 ## License
 
-Licensed for non-commercial research and educational use; forks/redistribution are permitted under the LICENSE, but commercial use requires permission. See `LICENSE` for details.
+Licensed for use, modification, and redistribution under the terms of the LICENSE. See `LICENSE` for details.
 
 ---
 
@@ -191,5 +191,3 @@ By contributing, you agree that your contributions will be licensed under the sa
 ## Contact
 
 For questions or bug reports, please use the GitHub Issues page for this repository.
-
-# PNUT
