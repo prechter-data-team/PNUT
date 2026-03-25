@@ -6,8 +6,8 @@ authors:
   - family-names: "Kim"
     given-names: "Hanjoo"
 date-released: "2026-03-05"
-license: "Non-Commercial Research and Educational License (Forks/PRs Allowed)"
-repository-code: "https://github.com/hanjookim-phd/PNUT"
+license: "Open license (commercial use permitted)"
+repository-code: "https://github.com/prechter-data-team/PNUT"
 preferred-citation:
   type: generic
   authors:
@@ -16,4 +16,4 @@ preferred-citation:
   title: "PNUT: Personalized Network Utility Toolkit"
   year: 2026
   version: "0.1.0"
-  url: "https://github.com/hanjookim-phd/PNUT"
+  url: "https://github.com/prechter-data-team/PNUT"
