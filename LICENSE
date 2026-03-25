@@ -1,35 +1,20 @@
 PNUT: Personalized Network Utility Toolkit
 Non-Commercial Research and Educational License (Forks/PRs Allowed)
 
-Copyright (c) 2026 Hanjoo Kim. All rights reserved.
+Copyright (c) 2026 Prechter Research Group @ The University of Michigan. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, and distribute the Software for NON-COMMERCIAL research and educational purposes only, subject to the following conditions:
 
-1) Non-Commercial Use Only
-   You may not use the Software, in whole or in part, for any commercial purpose without prior written permission from the copyright holder.
-
-   “Non-commercial research and educational purposes” include use by universities, non-profit research institutes, and public or non-profit hospitals for research, teaching, internal evaluation, or quality-improvement activities, provided that such use is not primarily intended for commercial advantage or monetary compensation.
-
-   “Commercial purpose” includes, but is not limited to:
-   - incorporating the Software into a product or service that is sold, licensed, or otherwise offered for a fee;
-   - providing fee-for-service consulting or paid deliverables where the Software is a material component;
-   - use by or for a for-profit entity to support internal business operations, product development, or commercial decision-making; or
-   - any use primarily intended for commercial advantage or monetary compensation.
-
-2) Redistribution and Forks
+Redistribution and Forks
    You may redistribute the Software (modified or unmodified), including via public repositories (e.g., forks), provided that:
    - this copyright notice and the full text of this license are included with any redistribution, and
    - any modifications are clearly documented (e.g., in commit history, release notes, or a CHANGELOG).
 
-3) Attribution and Citation
-   Any use or redistribution of the Software must retain the above copyright notice and this license text.
+Attribution and Citation
    If you use the Software in academic work, you agree to provide appropriate citation (see README.md).
 
    Recommended citation: Kim, H. (2026). PNUT: Personalized Network Utility Toolkit. GitHub repository.
 
-4) No Warranty
+No Warranty
    THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-5) Commercial Licensing
-   To request commercial use permission (or to obtain a commercial license), please contact: hanjokim@med.umich.edu.
 
