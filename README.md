@@ -2,7 +2,7 @@
   <img src="pnut-logo.png" alt="PNUT logo" width="180">
 </p>
 
-📄 **Rendered HTML report (GitHub Pages):** [https://prechter-data-team.github.io/PNUT/](https://prechter-data-team.github.io/PNUT/)
+📄 **Rendered HTML report (GitHub Pages):** [https://hanjookim-phd.github.io/PNUT/](https://hanjookim-phd.github.io/PNUT/)
 
 # PNUT: Personalized Network Utility Toolkit
 
